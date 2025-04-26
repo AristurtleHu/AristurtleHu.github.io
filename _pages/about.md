@@ -12,5 +12,3 @@ Currently, I am pursuing a Bachelor’s degree in Computer Science and Technolog
 You can find my CV here: [file](../files/template.pdf)
 
 B.ENG. in Computer Science and Technology, ShanghaiTech University [web](https://www.shanghaitech.edu.cn/eng/)
-
-[Email](mailto:yangry2023@shanghaitech.edu.cn) / [Github](https://github.com/AristurtleHu)
