@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "AbstractPNGpng.png"
   name             : "Renyi Yang"
-  pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student in CS"
-  location         : "Shanghai"
-  employer         : "ShanghaiTech University"
+  pronouns         : "He/Him"  
+  bio              : "Computer Science and Technology"
+  location         : "Grenoble, France"
+  employer         : "Grenoble INP"
   uri              : # URL
-  email            : "yangry2023@shanghaitech.edu.cn" 
+  email            : "renyi.yang@grenoble-inp.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

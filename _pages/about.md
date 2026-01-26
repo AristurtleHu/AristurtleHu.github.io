@@ -7,14 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am pursuing a Bachelor’s degree in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), where I have achieved a GPA of 3.79/4.0, with a Major GPA of 3.99/4.0. 
+I am an undergraduate student majoring in **Computer Science and Technology** at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) (Shanghai, China), and currently a visiting student at [Grenoble INP](https://phelma.grenoble-inp.fr/en) (Grenoble, France).
 
-I am a member of the [PMICC Lab](https://pmicc.sist.shanghaitech.edu.cn/) at the School of Information Science and Technology (SIST), advised by Prof. [Yajun Ha](https://faculty.sist.shanghaitech.edu.cn/faculty/hayj/).
+With a strong academic foundation (Major GPA: 4.0/4.0), my research interests focus on **OCR**, **Acceleration**. I am dedicated to optimizing algorithms for heterogeneous computing platforms and efficient systems.
 
-My coursework has provided me with a solid foundation in computer science. Through my studies, I have developed proficiency in C, C++, Python, RISC-V and Matlab, and my experiences in class and self-directed projects have enabled me to tackle complex computational challenges with confidence. My academic work has also shown me the importance of maintaining rigor in both my theoretical understanding and practical application of knowledge, reinforcing my ability in this field.
+You can find my CV here: [file](../files/cv.pdf)
 
-You can find my CV here: [file](../files/template.pdf)
+## Education
+
+*   **ShanghaiTech University** (Sep. 2023 - Present)
+    *   B.Eng. in Computer Science and Technology
+    *   GPA: 3.82/4.0 | Major GPA: 4.0/4.0
+*   **Grenoble INP** (Jan. 2026 - Present)
+    *   Exchange Student in Signal Image Processing Methods and Applications
+    *   Master Program (M1) 
 
 ## Experience
 
-- [Shanghai Azimuth Data Technology Co., Ltd.](http://www.fwjtech.com/aboutus) : SWE Intern (Jul. 2025 - Sep. 2025)
+*   **Advanced Micro Devices, Inc. (AMD)** | AI Software Engineer Intern
+    *   *Sep. 2025 - Jan. 2026*
+    *   Developed **HeteroOCR**, a CPU/GPU/NPU-optimized OCR system for complex documents.
+    *   Showcased at **CIIE 2025** as AMD's flagship NPU-AI demo.
+
+*   **Post-Moore Microelectronics and Integrated Circuit Center (PMICC)** | Research Assistant
+    *   *Jul. 2025 - Present* | Advisor: Prof. [Yajun Ha](https://faculty.sist.shanghaitech.edu.cn/faculty/hayj/)
+    *   Optimizing ResNet50 inference on NPU using **MLIR-AIE** (tensor tiling, buffer reuse).
+    *   Developing a high-throughput Chinese OCR pipeline for heterogeneous case files.
+
+*   **Shanghai Azimuth Data Technology Co., Ltd.** | Software Engineer Intern
+    *   *Jul. 2025 - Sep. 2025*
+    *   Engineered a multi-COM GNSS client for parsing NMEA 0183 and RTCM 3.3 streams.
+    *   Developed a LAN-based simulator client for message ingestion and transmission.
+
+## Honors & Awards
+
+*   **AMD Open Hardware 2025 Competition**: HeteroOCR Project winners.
+
+## Technical Skills
+
+*   **Languages**: Go, C/C++, OCaml, Python, MATLAB, RISC-V, x86 Assembly
+*   **Tools**: Git, Linux, Docker, Conda, CMake, MLIR, LaTeX
