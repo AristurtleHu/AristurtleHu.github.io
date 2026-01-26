@@ -7,7 +7,7 @@ tags:
   - AI for Healthcare
 ---
 
-# Deep-Learning-Dynamic-MRI-Reconstruction
+# Dynamic MRI Reconstruction
 
 <div align="center">
     <figure>

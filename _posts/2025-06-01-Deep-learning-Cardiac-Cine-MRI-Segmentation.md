@@ -7,7 +7,7 @@ tags:
   - AI for Healthcare
 ---
 
-# Deep Learning for Cardiac Cine MRI Segmentation
+# Cardiac Cine MRI Segmentation
 
 **BME1312 Artificial Intelligence in Biomedical Imaging**
 ShanghaiTech University
@@ -49,17 +49,17 @@ ShanghaiTech University
 
 <div align="center">
   <img src="/images/bme/cine/result/for_ppt/baseline_RV.png" alt="Baseline Segmentation Example RV" width="700">
-  <em>Baseline Segmentation Example RV</em>
+  <figcaption><em>Baseline Segmentation Example RV</em></figcaption>
 </div>
 <br>
 <div align="center">
   <img src="/images/bme/cine/result/for_ppt/baseline_MYO.png" alt="Baseline Segmentation Example MYO" width="700">
-  <em>Baseline Segmentation Example MYO</em>
+  <figcaption><em>Baseline Segmentation Example MYO</em></figcaption>
 </div>
 <br>
 <div align="center">
   <img src="/images/bme/cine/result/for_ppt/baseline_LV.png" alt="Baseline Segmentation Example LV" width="700">
-  <em>Baseline Segmentation Example LV</em>
+  <figcaption><em>Baseline Segmentation Example LV</em></figcaption>
 </div>
 
 ### Discussion - Baseline
@@ -79,7 +79,7 @@ ShanghaiTech University
 
 <div align="center">
   <img src="/images/bme/cine/result/no_shortcut_unet.png" alt="Loss Curve for Baseline without shortcut" style="width:70%;">
-  <em>Training and Validation Loss for Baseline U-Net without skip connections.</em>
+  <figcaption><em>Training and Validation Loss for Baseline U-Net without skip connections.</em></figcaption>
 </div>
 
 ### Results: Dice Coefficients
@@ -113,7 +113,7 @@ ShanghaiTech University
 
 <div align="center">
   <img src="/images/bme/cine/result/baseline_unet_data_aug.png" alt="Loss Curve for Baseline with data augmentation" style="width:70%;">
-  <em>Training and Validation Loss for Baseline U-Net with Data Augmentation.</em>
+  <figcaption><em>Training and Validation Loss for Baseline U-Net with Data Augmentation.</em></figcaption>
 </div>
 
 ### Results: Dice Coefficients
@@ -145,7 +145,7 @@ ShanghaiTech University
 
 <div align="center">
   <img src="/images/bme/cine/result/soft_dice_loss.png" alt="Loss Curve for Baseline with Soft Dice Loss" style="width:70%;">
-  <em>Training and Validation Loss for Baseline U-Net with Soft Dice Loss.</em>
+  <figcaption><em>Training and Validation Loss for Baseline U-Net with Soft Dice Loss.</em></figcaption>
 </div>
 
 ### Results: Dice Coefficients
@@ -174,17 +174,17 @@ ShanghaiTech University
 
 <div align="center">
   <img src="/images/bme/cine/result/for_ppt/soft_dice_loss_RV.png" alt="Baseline with Soft Dice Loss Segmentation Example RV" width="700">
-  <em>Baseline with Soft Dice Loss Segmentation Example RV</em>
+  <figcaption><em>Baseline with Soft Dice Loss Segmentation Example RV</em></figcaption>
 </div>
 <br>
 <div align="center">
   <img src="/images/bme/cine/result/for_ppt/soft_dice_loss_MYO.png" alt="Baseline with Soft Dice Loss Segmentation Example MYO" width="700">
-  <em>Baseline with Soft Dice Loss Segmentation Example MYO</em>
+  <figcaption><em>Baseline with Soft Dice Loss Segmentation Example MYO</em></figcaption>
 </div>
 <br>
 <div align="center">
   <img src="/images/bme/cine/result/for_ppt/soft_dice_loss_LV.png" alt="Baseline with Soft Dice Loss Segmentation Example LV" width="700">
-  <em>Baseline with Soft Dice Loss Segmentation Example LV</em>
+  <figcaption><em>Baseline with Soft Dice Loss Segmentation Example LV</em></figcaption>
 </div>
 
 ### Discussion - Soft Dice Loss
@@ -209,7 +209,7 @@ This section explores two main improvements: using an Attention U-Net and employ
 #### Attention U-Net Architecture Diagram
 <div align="center">
   <img src="/images/bme/cine/result/for_ppt/attention_unet.png" alt="Attention U-Net Architecture" width="700">
-  <em>Attention U-Net Architecture</em>
+  <figcaption><em>Attention U-Net Architecture</em></figcaption>
 </div>
 
 #### Results: Dice Coefficients (Attention U-Net)
@@ -226,17 +226,17 @@ This section explores two main improvements: using an Attention U-Net and employ
 
 <div align="center">
   <img src="/images/bme/cine/result/for_ppt/attention_RV.png" alt="Attention U-Net Segmentation Example RV" width="700">
-  <em>Attention U-Net Segmentation Example RV</em>
+  <figcaption><em>Attention U-Net Segmentation Example RV</em></figcaption>
 </div>
 <br>
 <div align="center">
   <img src="/images/bme/cine/result/for_ppt/attention_MYO.png" alt="Attention U-Net Segmentation Example MYO" width="700">
-  <em>Attention U-Net Segmentation Example MYO</em>
+  <figcaption><em>Attention U-Net Segmentation Example MYO</em></figcaption>
 </div>
 <br>
 <div align="center">
   <img src="/images/bme/cine/result/for_ppt/attention_LV.png" alt="Attention U-Net Segmentation Example LV" width="700">
-  <em>Attention U-Net Segmentation Example LV</em>
+  <figcaption><em>Attention U-Net Segmentation Example LV</em></figcaption>
 </div>
 
 #### Discussion - Attention U-Net
