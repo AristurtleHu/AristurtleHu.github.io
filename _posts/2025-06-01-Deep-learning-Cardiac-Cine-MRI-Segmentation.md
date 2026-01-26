@@ -28,13 +28,13 @@ ShanghaiTech University
 ## Task (a): U-Net (Baseline)
 
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/network.png" alt="Network">
+  <img src="/images/bme/cine/result/network.png" alt="Network">
 </div>
 
 ### Baseline Training Loss and Validation Loss
 
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/baseline_unet.png" alt="Baseline Loss">
+  <img src="/images/bme/cine/result/baseline_unet.png" alt="Baseline Loss">
 </div>
 
 ### Results: Dice Coefficients
@@ -48,17 +48,17 @@ ShanghaiTech University
 ### Segmentation Examples
 
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/for_ppt/baseline_RV.png" alt="Baseline Segmentation Example RV" width="700">
+  <img src="/images/bme/cine/result/for_ppt/baseline_RV.png" alt="Baseline Segmentation Example RV" width="700">
   <em>Baseline Segmentation Example RV</em>
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/for_ppt/baseline_MYO.png" alt="Baseline Segmentation Example MYO" width="700">
+  <img src="/images/bme/cine/result/for_ppt/baseline_MYO.png" alt="Baseline Segmentation Example MYO" width="700">
   <em>Baseline Segmentation Example MYO</em>
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/for_ppt/baseline_LV.png" alt="Baseline Segmentation Example LV" width="700">
+  <img src="/images/bme/cine/result/for_ppt/baseline_LV.png" alt="Baseline Segmentation Example LV" width="700">
   <em>Baseline Segmentation Example LV</em>
 </div>
 
@@ -78,7 +78,7 @@ ShanghaiTech University
 ### Training Loss and Validation Loss (No Skip Connections)
 
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/no_shortcut_unet.png" alt="Loss Curve for Baseline without shortcut" style="width:70%;">
+  <img src="/images/bme/cine/result/no_shortcut_unet.png" alt="Loss Curve for Baseline without shortcut" style="width:70%;">
   <em>Training and Validation Loss for Baseline U-Net without skip connections.</em>
 </div>
 
@@ -112,7 +112,7 @@ ShanghaiTech University
 ### Training Loss and Validation Loss (with Data Augmentation)
 
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/baseline_unet_data_aug.png" alt="Loss Curve for Baseline with data augmentation" style="width:70%;">
+  <img src="/images/bme/cine/result/baseline_unet_data_aug.png" alt="Loss Curve for Baseline with data augmentation" style="width:70%;">
   <em>Training and Validation Loss for Baseline U-Net with Data Augmentation.</em>
 </div>
 
@@ -144,7 +144,7 @@ ShanghaiTech University
 ### Training Loss and Validation Loss (With Soft Dice Loss)
 
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/soft_dice_loss.png" alt="Loss Curve for Baseline with Soft Dice Loss" style="width:70%;">
+  <img src="/images/bme/cine/result/soft_dice_loss.png" alt="Loss Curve for Baseline with Soft Dice Loss" style="width:70%;">
   <em>Training and Validation Loss for Baseline U-Net with Soft Dice Loss.</em>
 </div>
 
@@ -173,17 +173,17 @@ ShanghaiTech University
 ### Segmentation Examples (Soft Dice Loss)
 
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/for_ppt/soft_dice_loss_RV.png" alt="Baseline with Soft Dice Loss Segmentation Example RV" width="700">
+  <img src="/images/bme/cine/result/for_ppt/soft_dice_loss_RV.png" alt="Baseline with Soft Dice Loss Segmentation Example RV" width="700">
   <em>Baseline with Soft Dice Loss Segmentation Example RV</em>
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/for_ppt/soft_dice_loss_MYO.png" alt="Baseline with Soft Dice Loss Segmentation Example MYO" width="700">
+  <img src="/images/bme/cine/result/for_ppt/soft_dice_loss_MYO.png" alt="Baseline with Soft Dice Loss Segmentation Example MYO" width="700">
   <em>Baseline with Soft Dice Loss Segmentation Example MYO</em>
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/for_ppt/soft_dice_loss_LV.png" alt="Baseline with Soft Dice Loss Segmentation Example LV" width="700">
+  <img src="/images/bme/cine/result/for_ppt/soft_dice_loss_LV.png" alt="Baseline with Soft Dice Loss Segmentation Example LV" width="700">
   <em>Baseline with Soft Dice Loss Segmentation Example LV</em>
 </div>
 
@@ -208,7 +208,7 @@ This section explores two main improvements: using an Attention U-Net and employ
 
 #### Attention U-Net Architecture Diagram
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/for_ppt/attention_unet.png" alt="Attention U-Net Architecture" width="700">
+  <img src="/images/bme/cine/result/for_ppt/attention_unet.png" alt="Attention U-Net Architecture" width="700">
   <em>Attention U-Net Architecture</em>
 </div>
 
@@ -225,17 +225,17 @@ This section explores two main improvements: using an Attention U-Net and employ
 #### Segmentation Examples (Attention U-Net)
 
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/for_ppt/attention_RV.png" alt="Attention U-Net Segmentation Example RV" width="700">
+  <img src="/images/bme/cine/result/for_ppt/attention_RV.png" alt="Attention U-Net Segmentation Example RV" width="700">
   <em>Attention U-Net Segmentation Example RV</em>
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/for_ppt/attention_MYO.png" alt="Attention U-Net Segmentation Example MYO" width="700">
+  <img src="/images/bme/cine/result/for_ppt/attention_MYO.png" alt="Attention U-Net Segmentation Example MYO" width="700">
   <em>Attention U-Net Segmentation Example MYO</em>
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation/tree/master/result/for_ppt/attention_LV.png" alt="Attention U-Net Segmentation Example LV" width="700">
+  <img src="/images/bme/cine/result/for_ppt/attention_LV.png" alt="Attention U-Net Segmentation Example LV" width="700">
   <em>Attention U-Net Segmentation Example LV</em>
 </div>
 

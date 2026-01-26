@@ -14,7 +14,7 @@ tags:
 
 
 ## Dashboard
-![dashboard](../files/images/intern/azimuth/dashboard.png)
+![dashboard](/images/intern/azimuth/dashboard.png)
 
 ## Details for each COM
-![detail](../files/images/intern/azimuth/detail.png)
+![detail](/images/intern/azimuth/detail.png)

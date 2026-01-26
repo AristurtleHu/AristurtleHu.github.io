@@ -11,7 +11,7 @@ tags:
 # LAN-based Simulator
 
 ## Layout
-![layout](../files/images/intern/azimuth/layout.png)
+![layout](/images/intern/azimuth/layout.png)
 
 ## Ephemeris Table
-![ephemeris](../files/images/intern/azimuth/ephemeris.png)
+![ephemeris](/images/intern/azimuth/ephemeris.png)
