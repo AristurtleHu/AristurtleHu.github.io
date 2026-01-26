@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student majoring in **Computer Science and Technology** at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) (Shanghai, China), and currently a visiting student at [Grenoble INP](https://phelma.grenoble-inp.fr/en) (Grenoble, France).
+I am an undergraduate student majoring in **Computer Science and Technology** at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), and currently a visiting student at [Grenoble INP](https://phelma.grenoble-inp.fr/en).
 
-With a strong academic foundation (Major GPA: 4.0/4.0), my research interests focus on **OCR**, **Acceleration**. I am dedicated to optimizing algorithms for heterogeneous computing platforms and efficient systems.
+With a strong academic foundation, my research interests focus on **OCR**, **Acceleration**. I am dedicated to optimizing a Heterogeneous OCR system now.
 
 You can find my CV here: [file](../files/cv.pdf)
 
@@ -32,7 +32,7 @@ You can find my CV here: [file](../files/cv.pdf)
 *   **Post-Moore Microelectronics and Integrated Circuit Center (PMICC)** - Research Assistant
     *   *Jul. 2025 - Present*
     *   Advisor: Prof. [Yajun Ha](https://faculty.sist.shanghaitech.edu.cn/faculty/hayj/)
-    *   Optimizing ResNet50 inference on NPU using **MLIR-AIE** (tensor tiling, buffer reuse).
+    *   Optimizing ResNet50 inference on NPU using MLIR-AIE (tensor tiling, buffer reuse).
     *   Developing a high-throughput Chinese OCR pipeline for heterogeneous case files.
 
 *   **Shanghai Azimuth Data Technology Co., Ltd.** - Software Engineer Intern
