@@ -114,6 +114,7 @@ Cardiac Cine MRI Segmentation
 </div>
 
 ### Results: Dice Coefficients
+
 | Structure | Baseline DSC | Data Aug. DSC |
 | :-------- | :----------- | :------------ |
 | LV Mean   | **0.9519**   | 0.9276        |
@@ -210,6 +211,7 @@ This section explores two main improvements: using an Attention U-Net and employ
 </div>
 
 #### Results: Dice Coefficients (Attention U-Net)
+
 | Structure | Baseline with BCE Loss | Baseline with Soft Dice Loss | Attention U-Net |
 | :-------- | :--------------------- | :--------------------------- | :-------------- |
 | LV Mean   | 0.9519                 | 0.9566                       | **0.9568**      |
