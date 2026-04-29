@@ -8,6 +8,7 @@ tags:
   - multi-COM
   - RTCM 3.3
   - NMEA 0183
+  - Python
 ---
 
 # GNSS Client

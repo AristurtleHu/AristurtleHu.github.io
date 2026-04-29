@@ -5,6 +5,8 @@ permalink: /posts/Fracture-Fixation-FEA-Simulation/
 tags:
   - Computational Science and Engineering
   - Finite Element Analysis
+  - Biomechanics
+  - Python
 ---
 
 # Fracture Fixation FEA Simulation

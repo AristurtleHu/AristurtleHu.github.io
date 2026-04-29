@@ -5,6 +5,7 @@ permalink: /posts/Deep-learning-Cardiac-Cine-MRI-Segmentation/
 tags:
   - Computer Vision
   - AI for Healthcare
+  - Python
 ---
 
 # Cardiac Cine MRI Segmentation

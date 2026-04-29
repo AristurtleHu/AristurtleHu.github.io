@@ -6,6 +6,7 @@ tags:
   - Internship
   - LAN based
   - Client
+  - Python
 ---
 
 # LAN-based Simulator

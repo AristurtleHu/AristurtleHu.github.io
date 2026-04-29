@@ -5,6 +5,7 @@ permalink: /posts/Deep-Learning-Dynamic-MRI-Reconstruction/
 tags:
   - Computer Vision
   - AI for Healthcare
+  - Python
 ---
 
 # Dynamic MRI Reconstruction
