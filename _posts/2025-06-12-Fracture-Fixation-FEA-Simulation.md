@@ -9,9 +9,9 @@ tags:
   - Python
 ---
 
-# Fracture Fixation FEA Simulation
+A comprehensive finite element analysis (FEA) toolkit for investigating the biomechanical behavior of bone-fixator systems during fracture healing. 
 
-A comprehensive finite element analysis (FEA) toolkit for investigating the biomechanical behavior of bone-fixator systems during fracture healing. This project models stress transfer mechanisms and analyzes how different fixator stiffnesses influence the healing process through computational simulation.
+This project models stress transfer mechanisms and analyzes how different fixator stiffnesses influence the healing process through computational simulation.
 
 ## 🎯 Project Overview
 

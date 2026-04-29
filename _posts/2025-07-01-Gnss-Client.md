@@ -11,7 +11,7 @@ tags:
   - Python
 ---
 
-# GNSS Client
+A GNSS Client implemented in Python, designed to visualize NMEA 0183 and RTCM 3.3 messages in a dashboard, with support for multiple COM ports.
 
 
 ## Dashboard

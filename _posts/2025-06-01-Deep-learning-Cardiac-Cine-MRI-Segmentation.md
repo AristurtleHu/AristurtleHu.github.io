@@ -8,11 +8,7 @@ tags:
   - Python
 ---
 
-# Cardiac Cine MRI Segmentation
-
-**BME1312 Artificial Intelligence in Biomedical Imaging**
-ShanghaiTech University
-> Members: 熊闻野, 夏博扬, 杨人一, 吴家兴, 杨丰敏
+Cardiac Cine MRI Segmentation
 
 ## Overview
 

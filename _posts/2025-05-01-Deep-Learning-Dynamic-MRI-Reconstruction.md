@@ -8,7 +8,7 @@ tags:
   - Python
 ---
 
-# Dynamic MRI Reconstruction
+Dynamic MRI Reconstruction
 
 <div align="center">
     <figure>

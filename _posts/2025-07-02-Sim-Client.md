@@ -9,7 +9,7 @@ tags:
   - Python
 ---
 
-# LAN-based Simulator
+A LAN-based Simulator Client implemented in Python, designed to show GNSS data in a dashboard and set the parameters for the simulator, with a live ephemeris table.
 
 ## Layout
 ![layout](/images/intern/azimuth/layout.png)
