@@ -12,7 +12,7 @@ tags:
   - Python
 ---
 
-A comprehensive collection of hands-on projects in image processing covering fundamental and advanced techniques, implemented in Python with Jupyter notebooks.
+A comprehensive collection of hands-on projects in image processing, implemented in Python with Jupyter notebooks.
 
 ## Sessions Overview
 

@@ -180,7 +180,7 @@ We trained a model variant without dropout and without a dynamic learning rate s
 
 <div align="center">
     <figure>
-        <img src="/images/bme/mri/assets/Training Loss and Validation Loss No Opt.png" alt="Training and Validation Loss without Optimizations">
+        <img src="/images/bme/mri/assets/Training Loss and Validation Loss No opt.png" alt="Training and Validation Loss without Optimizations">
         <figcaption><em>Fig: Training and Validation Loss Curves without Dropout and Dynamic Learning Rate</em></figcaption>
     </figure>
 </div>
