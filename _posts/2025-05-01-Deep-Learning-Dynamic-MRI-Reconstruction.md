@@ -63,7 +63,7 @@ $$
 b = F^{-1} \cdot U \cdot F \cdot m
 $$  
 
-where $b$ is the aliased image, $F$ is the Fourier transform, $U$ is the undersampling mask, and $m$ is the original image. The aliased images are then used as input to the deep learning model for reconstruction.
+where $$b$$ is the aliased image, $$F$$ is the Fourier transform, $$U$$ is the undersampling mask, and $$m$$ is the original image. The aliased images are then used as input to the deep learning model for reconstruction.
 
 Below are some examples of the aliased images generated from the original images.
 <div align="center">
