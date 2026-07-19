@@ -18,7 +18,6 @@ You can find my CV here: [file](../files/cv.pdf)
 *   **ShanghaiTech University** (Sep. 2023 - Present)
     *   B.Eng. in Computer Science and Technology
     *   GPA: 3.83/4.0 - Major GPA: 4.0/4.0
-    *   Rank (CS): 10/171 | Rank (CS + EE): 16/266
 *   **Grenoble INP** (Jan. 2026 - Jun. 2026)
     *   Exchange Student in Signal Image Processing Methods and Applications
     *   Master Program (M1) - Only Master program taught in English
@@ -50,12 +49,12 @@ You can find my CV here: [file](../files/cv.pdf)
 *   **Post-Moore Microelectronics and Integrated Circuit Center (PMICC)** - Research Assistant
     *   *Jul. 2025 - Present*
     *   Advisor: Prof. [Yajun Ha](https://faculty.sist.shanghaitech.edu.cn/faculty/hayj/)
-    *   Developing a high-throughput Chinese OCR pipeline for heterogeneous case files 
+    *   Developing a high-throughput Chinese OCR pipeline for heterogeneous case files.
     *   Layout, Detection, Recognition; Watermark Removal; Acceleration.
 
 ## Honors & Awards
 
-*   **AMD Open Hardware 2025 Competition**: HeteroOCR Project winners.
+*   **AMD Open Hardware 2025 Competition**: HeteroOCR Project Winners
 *   **3+1 Overseas Exchange Program Scholarship**, ShanghaiTech University
 *   **Outstanding Student**, ShanghaiTech University
 *   **136 Hours Volunteer Service**, China Volunteer Service
