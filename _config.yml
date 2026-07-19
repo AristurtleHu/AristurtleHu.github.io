@@ -26,8 +26,8 @@ author:
   name             : "Renyi Yang"
   pronouns         : "He/Him"  
   bio              : "Computer Science and Technology"
-  location         : "Grenoble, France"
-  employer         : "Grenoble INP"
+  location         : "Shanghai, China"
+  employer         : # "Grenoble INP / ShanghaiTech University"
   uri              : # URL
   email            : "renyi.yang@grenoble-inp.org" 
 
