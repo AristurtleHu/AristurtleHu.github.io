@@ -17,7 +17,7 @@ You can find my CV here: [file](../files/cv.pdf)
 
 *   **ShanghaiTech University** (Sep. 2023 - Present)
     *   B.Eng. in Computer Science and Technology
-    *   GPA: 3.83/4.0 - Major GPA: 4.0/4.0
+    *   GPA: 3.84/4.0 - Major GPA: 4.0/4.0
 *   **Grenoble INP** (Jan. 2026 - Jun. 2026)
     *   Exchange Student in Signal Image Processing Methods and Applications
     *   Master Program (M1) - Only Master program taught in English
