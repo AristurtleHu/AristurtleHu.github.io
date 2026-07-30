@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate student majoring in **Computer Science and Technology** at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), and was an exchange student at [Grenoble INP](https://phelma.grenoble-inp.fr/en).
 
-With a strong academic foundation, my research interests focus on **OCR**, **System Acceleration**, and **Heterogeneous Computing**. I am dedicated to optimizing OCR pipelines and accelerating inference on heterogeneous hardware (CPU/GPU/NPU).
+With a strong academic foundation, my research interests focus on **OCR**, **AI**, and **Heterogeneous Acceleration**. I am dedicated to optimizing OCR pipelines and accelerating inference on heterogeneous hardware (CPU/GPU/NPU).
 
 You can find my CV here: [file](../files/cv.pdf)
 
@@ -26,8 +26,8 @@ You can find my CV here: [file](../files/cv.pdf)
 
 *   **miHoYo** - AI Product Engineer Intern
     *   *Jul. 2026 - Present*
-    *   Leveraged AI to analyze public posts for social media sentiment and KOL performance.
-    *   Accelerated generation of event proposals and post-campaign reports by **42%**.
+    *   Architected **AI workflows** processing unstructured social data to extract actionable sentiment and KOL insights.
+    *   Engineered LLM pipelines, slashing turnaround for strategic pitches and post-mortem impact assessments by **42\%**.
 
 *   **Lynred** - R&D Software Engineer Intern
     *   *May 2026 - Jun. 2026*
