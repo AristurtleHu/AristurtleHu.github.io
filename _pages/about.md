@@ -27,7 +27,7 @@ You can find my CV here: [file](../files/cv.pdf)
 *   **miHoYo** - AI Product Engineer Intern
     *   *Jul. 2026 - Present*
     *   Architected **AI workflows** processing unstructured social data to extract actionable sentiment and KOL insights.
-    *   Engineered LLM pipelines, slashing turnaround for strategic pitches and post-mortem impact assessments by **42\%**.
+    *   Engineered LLM pipelines, slashing turnaround for strategic pitches and post-mortem impact assessments by **42%**.
 
 *   **Lynred** - R&D Software Engineer Intern
     *   *May 2026 - Jun. 2026*
