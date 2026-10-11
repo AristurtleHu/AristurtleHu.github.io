@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate student majoring in **Computer Science and Technology** at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), and was an exchange student at [Grenoble INP](https://phelma.grenoble-inp.fr/en).
 
-With a strong academic foundation, my research interests focus on **OCR**, **AI**, and **Heterogeneous Acceleration**. I am dedicated to optimizing OCR pipelines and accelerating inference on heterogeneous hardware (CPU/GPU/NPU).
+With a strong academic foundation, my research interests focus on **AI**, and **Forward Deployment**.
 
 You can find my CV here: [file](../files/cv.pdf)
 
@@ -24,17 +24,18 @@ You can find my CV here: [file](../files/cv.pdf)
 
 ## Internship
 
-*   **miHoYo** - AI Product Engineer Intern
+*   **miHoYo (Hoyoverse)** - AI Engineer Intern
     *   *Jul. 2026 - Present*
-    *   Architected **AI workflows** processing unstructured social data to extract actionable sentiment and KOL insights.
-    *   Engineered LLM pipelines, slashing turnaround for strategic pitches and post-mortem impact assessments by **42%**.
+    *   Built LLM pipelines for warehouse and shop-revenue reconciliation and sales analytics
+    *   Developed social sentiment early-warning and KOL benchmarking for sponsorship decisions
+    *   Produced per-version competitor analyses and social-media campaign insights to guide strategy
 
 *   **Lynred** - R&D Software Engineer Intern
     *   *May 2026 - Jun. 2026*
     *   Detected and corrected vertical stripe defects in 16-bit infrared image sequences across sensors.
     *   Achieved **top one** performance among all competing groups.
 
-*   **Advanced Micro Devices, Inc. (AMD)** - AI Software Engineer Intern
+*   **AMD** - AI Engineer Intern
     *   *Sep. 2025 - Jan. 2026*
     *   Developed **HeteroOCR**, a CPU/GPU/NPU-optimized OCR system for complex documents.
     *   Showcased at **CIIE 2025** as AMD's flagship NPU-AI demo.
@@ -62,4 +63,5 @@ You can find my CV here: [file](../files/cv.pdf)
 ## Technical Skills
 
 *   **Languages**: Go, C/C++, OCaml, Python, MATLAB, RISC-V, x86 Assembly
-*   **Tools**: Git, Linux, Docker, Conda, CMake, Vim, GNU Make, LaTeX
+*   **Tools**: Git, Linux, Docker, Conda, CMake, Vim, GNU Make
+*   **Misc**: Latex, Markdown, Pi, DSH, CC-Switch
