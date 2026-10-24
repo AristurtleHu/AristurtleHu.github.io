@@ -43,7 +43,7 @@ You can find my CV here: [file](../files/cv.pdf)
     *   Achieved **top one** performance among all competing groups.
 
 *   **AMD** - Open Hardware 2025
-    *   *Sep. 2025 - Nov. 2025*
+    *   *Sep. 2025 - Jan. 2026*
     *   Developed **HeteroOCR**, a CPU/GPU/NPU-optimized OCR system for complex documents.
     *   Showcased at **CIIE 2025** as AMD's flagship NPU-AI demo.
 
