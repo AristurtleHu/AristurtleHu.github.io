@@ -22,7 +22,7 @@ You can find my CV here: [file](../files/cv.pdf)
     *   Exchange Student in Signal Image Processing Methods and Applications
     *   Master Program (M1) - Only Master program taught in English
 
-## Internship
+## Internships
 
 *   **miHoYo (Hoyoverse)** - AI Engineer Intern
     *   *Jul. 2026 - Present*
@@ -30,20 +30,22 @@ You can find my CV here: [file](../files/cv.pdf)
     *   Developed social sentiment early-warning and KOL benchmarking for sponsorship decisions
     *   Produced per-version competitor analyses and social-media campaign insights to guide strategy
 
-*   **Lynred** - R&D Software Engineer Intern
-    *   *May 2026 - Jun. 2026*
-    *   Detected and corrected vertical stripe defects in 16-bit infrared image sequences across sensors.
-    *   Achieved **top one** performance among all competing groups.
-
-*   **AMD** - AI Engineer Intern
-    *   *Sep. 2025 - Jan. 2026*
-    *   Developed **HeteroOCR**, a CPU/GPU/NPU-optimized OCR system for complex documents.
-    *   Showcased at **CIIE 2025** as AMD's flagship NPU-AI demo.
-
 *   **Shanghai Azimuth Data Technology Co., Ltd.** - Software Engineer Intern
     *   *Jul. 2025 - Sep. 2025*
     *   Developed a multi-COM GNSS client that concurrently parses NMEA 0183 and RTCM 3.3 streams.
     *   Built a LAN-based simulator client for message ingestion and transmission.
+
+## Industry Collaborations
+
+*   **Lynred** - Data Challenge 2026
+    *   *May 2026 - Jun. 2026*
+    *   Detected and corrected **vertical stripe defects** in 16-bit infrared image sequences across sensors.
+    *   Achieved **top one** performance among all competing groups.
+
+*   **AMD** - Open Hardware 2025
+    *   *Sep. 2025 - Nov. 2025*
+    *   Developed **HeteroOCR**, a CPU/GPU/NPU-optimized OCR system for complex documents.
+    *   Showcased at **CIIE 2025** as AMD's flagship NPU-AI demo.
 
 ## Research Experience
 
@@ -53,14 +55,14 @@ You can find my CV here: [file](../files/cv.pdf)
     *   Developing a high-throughput Chinese OCR pipeline for heterogeneous case files.
     *   Layout, Detection, Recognition; Watermark Removal; Acceleration.
 
-## Honors & Awards
+## Awards & Honors
 
 *   **AMD Open Hardware 2025 Competition**: HeteroOCR Project Winners
 *   **3+1 Overseas Exchange Program Scholarship**, ShanghaiTech University
 *   **Outstanding Student**, ShanghaiTech University
 *   **136 Hours Volunteer Service**, China Volunteer Service
 
-## Technical Skills
+## Technical Strengths
 
 *   **Languages**: Go, C/C++, OCaml, Python, MATLAB, RISC-V, x86 Assembly
 *   **Tools**: Git, Linux, Docker, Conda, CMake, Vim, GNU Make
