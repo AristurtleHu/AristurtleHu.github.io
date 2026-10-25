@@ -40,7 +40,7 @@ You can find my CV here: [file](../files/cv.pdf)
 *   **Lynred** - Data Challenge 2026
     *   *May 2026 - Jun. 2026*
     *   Detected and corrected **vertical stripe defects** in 16-bit infrared image sequences across sensors.
-    *   Achieved **top one** performance among all competing groups.
+    *   **Ranked first** among all competing teams.
 
 *   **AMD** - Open Hardware 2025
     *   *Sep. 2025 - Jan. 2026*
