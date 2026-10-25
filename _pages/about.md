@@ -45,6 +45,7 @@ You can find my CV here: [file](../files/cv.pdf)
 *   **AMD** - Open Hardware 2025
     *   *Sep. 2025 - Jan. 2026*
     *   Developed **HeteroOCR**, a CPU/GPU/NPU-optimized OCR system for complex documents.
+    *   Offloaded OCR to the NPU: 40% lower GPU utilization, 2x faster than CPU.
     *   Showcased at **CIIE 2025** as AMD's flagship NPU-AI demo.
 
 ## Research Experience
@@ -65,5 +66,5 @@ You can find my CV here: [file](../files/cv.pdf)
 ## Technical Strengths
 
 *   **Languages**: Go, C/C++, OCaml, Python, MATLAB, RISC-V, x86 Assembly
-*   **Tools**: Git, Linux, Docker, Conda, CMake, Vim, GNU Make
-*   **Misc**: Latex, Markdown, Pi, DSH, CC-Switch
+*   **Tools & Frameworks**: Git, Linux, Docker, Conda, Vim, GNU Make, CMake
+*   **Other**: LaTeX, Markdown, Pi, DSH, CC-Switch
