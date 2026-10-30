@@ -20,7 +20,7 @@ You can find my CV here: [file](../files/cv.pdf)
     *   GPA: 3.84/4.0 - Major GPA: 4.0/4.0
 *   **Grenoble INP** (Jan. 2026 - Jun. 2026)
     *   Exchange Student in Signal Image Processing Methods and Applications
-    *   Master Program (M1) - Only Master program taught in English
+    *   Master-level (M1) courses - the only English-taught track (Bachelor's courses are in French)
 
 ## Internships
 
@@ -58,13 +58,13 @@ You can find my CV here: [file](../files/cv.pdf)
 
 ## Awards & Honors
 
-*   **AMD Open Hardware 2025 Competition**: HeteroOCR Project Winners
 *   **3+1 Overseas Exchange Program Scholarship**, ShanghaiTech University
+*   **AMD Open Hardware 2025 Competition**: HeteroOCR Project Winners
 *   **Outstanding Student**, ShanghaiTech University
 *   **136 Hours Volunteer Service**, China Volunteer Service
 
 ## Technical Strengths
 
-*   **Languages**: Go, C/C++, OCaml, Python, MATLAB, RISC-V, x86 Assembly
-*   **Tools & Frameworks**: Git, Linux, Docker, Conda, Vim, GNU Make, CMake
+*   **Programming Languages**: Go, C/C++, OCaml, Python, MATLAB, RISC-V, x86 Assembly
+*   **Tools & Frameworks**: Git, Linux, Docker, Vim, GNU Make, CMake，Pytorch
 *   **Other**: LaTeX, Markdown, Pi, DSH, CC-Switch
