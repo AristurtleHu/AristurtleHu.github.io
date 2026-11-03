@@ -24,13 +24,13 @@ You can find my CV here: [file](../files/cv.pdf)
 
 ## Internships
 
-*   **miHoYo (Hoyoverse)** - AI Engineer Intern
+*   **miHoYo (HoYoverse)** - AI Engineer Intern
     *   *Jul. 2026 - Present*
     *   Built LLM pipelines for warehouse and shop-revenue reconciliation and sales analytics
     *   Developed social sentiment early-warning and KOL benchmarking for sponsorship decisions
     *   Produced per-version competitor analyses and social-media campaign insights to guide strategy
 
-*   **Shanghai Azimuth Data Technology Co., Ltd.** - Software Engineer Intern
+*   **Shanghai Azimuth Data Technology** - Software Engineer Intern
     *   *Jul. 2025 - Sep. 2025*
     *   Developed a multi-COM GNSS client that concurrently parses NMEA 0183 and RTCM 3.3 streams.
     *   Built a LAN-based simulator client for message ingestion and transmission.
