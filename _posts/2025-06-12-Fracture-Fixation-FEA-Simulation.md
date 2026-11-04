@@ -2,7 +2,7 @@
 title: 'Fracture-Fixation-FEA-Simulation'
 date: 2025-06-12
 permalink: /posts/Fracture-Fixation-FEA-Simulation/
-link: https://github.com/XiongWenye/Fracture-Fixation-FEA-Simulation
+github: https://github.com/XiongWenye/Fracture-Fixation-FEA-Simulation
 tags:
   - Computational Science and Engineering
   - Finite Element Analysis
