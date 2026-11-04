@@ -2,6 +2,7 @@
 title: 'Deep-Learning-Dynamic-MRI-Reconstruction'
 date: 2025-05-01
 permalink: /posts/Deep-Learning-Dynamic-MRI-Reconstruction/
+categories: [Projects]
 github: https://github.com/XiongWenye/Deep-Learning-Dynamic-MRI-Reconstruction
 tags:
   - Computer Vision

@@ -2,6 +2,7 @@
 title: 'GNSS Client'
 date: 2025-07-01
 permalink: /posts/GNSS-Client/
+categories: [Internships]
 tags:
   - Internship
   - GNSS

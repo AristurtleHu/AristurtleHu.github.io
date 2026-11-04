@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Internships"
+permalink: /internships/
+author_profile: true
+---
+
+{% assign internships = site.categories.Internships | sort: "date" | reverse %}
+{% for post in internships %}
+  {% include archive-single.html %}
+{% endfor %}

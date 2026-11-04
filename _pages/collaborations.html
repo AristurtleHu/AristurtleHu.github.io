@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Collaborations"
+permalink: /collaborations/
+author_profile: true
+---
+
+{% assign collaborations = site.categories.Collaborations | sort: "date" | reverse %}
+{% for post in collaborations %}
+  {% include archive-single.html %}
+{% endfor %}

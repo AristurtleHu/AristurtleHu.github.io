@@ -2,6 +2,7 @@
 title: 'LAN-based Simulator'
 date: 2025-07-02
 permalink: /posts/LAN-based-Simulator/
+categories: [Internships]
 tags:
   - Internship
   - LAN based

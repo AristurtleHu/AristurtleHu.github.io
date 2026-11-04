@@ -2,6 +2,7 @@
 title: 'Deep-learning-Cardiac-Cine-MRI-Segmentation'
 date: 2025-06-01
 permalink: /posts/Deep-learning-Cardiac-Cine-MRI-Segmentation/
+categories: [Projects]
 github: https://github.com/XiongWenye/Deep-learning-Cardiac-Cine-MRI-Segmentation
 tags:
   - Computer Vision

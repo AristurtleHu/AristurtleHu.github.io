@@ -17,8 +17,17 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
+  # - title: "Blog posts"
+  #   url: /year-archive/
+
+  - title: "Internships"
+    url: /internships/
+
+  - title: "Collaborations"
+    url: /collaborations/
+
   - title: "Projects"
-    url: /year-archive/
+    url: /projects/
 
   - title: "CV"
     url: "https://aristurtlehu.github.io/files/cv.pdf"
