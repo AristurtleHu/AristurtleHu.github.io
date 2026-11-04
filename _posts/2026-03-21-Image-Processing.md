@@ -2,6 +2,7 @@
 title: 'Image Processing'
 date: 2026-03-21
 permalink: /posts/Image-Processing/
+link: https://github.com/AristurtleHu/Image-Processing
 tags:
   - Computer Vision
   - Image Segmentation
